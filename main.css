@@ -7,10 +7,11 @@
 .dropdown .dropbtn {
   font-size: 14px;
   border: none;
+  padding: 0px;
   outline: none;
   color: black;
   background-color: inherit;
-  font-family: inherit;
+  font-family: Arial;
   margin: 0;
 }
 
