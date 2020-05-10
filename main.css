@@ -10,6 +10,7 @@
   padding: 0px;
   outline: none;
   color: black;
+    font-family: inherit;
   background-color: inherit;
   margin: 0;
 }
