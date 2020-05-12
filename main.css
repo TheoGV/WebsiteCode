@@ -54,6 +54,11 @@
     overflow:hidden;
 }
 
+ul {
+    margin: 0;
+    padding: 0;
+}
+
 header {
     background: white;
     color: navy;
@@ -69,10 +74,6 @@ header a {
     font-size:16px;
 }
 
-header ul {
-    margin: 0;
-    padding: 0;
-}
 
 header li{
     float: left;
