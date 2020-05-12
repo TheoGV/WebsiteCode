@@ -96,4 +96,5 @@ header nav {
 
 header a: hover{
     color: red;
+    font-weight: bold;
 }
