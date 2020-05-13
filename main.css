@@ -54,6 +54,12 @@
     overflow:hidden;
 }
 
+.container, .logo {
+   float: left;
+    width: auto;
+    height: auto;
+}
+
 ul {
     margin: 0;
     padding: 0;
@@ -82,7 +88,10 @@ header li{
 }
 
 header #branding {
-    float: left
+    float: left;
+    padding: 1em;
+    clear: left;
+    text-align: center;
 }
 
 header #branding h1 {
@@ -94,7 +103,7 @@ header nav {
     margin-top: 10px;
 }
 
-header a: hover{
+header a: hover {
     color: red;
     font-weight: bold;
 }
