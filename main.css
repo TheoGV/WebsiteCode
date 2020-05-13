@@ -90,7 +90,7 @@ header li{
 
 header #branding {
     float: left;
-    padding: 1em;
+    padding: 1px;
     clear: left;
     text-align: center;
 }
