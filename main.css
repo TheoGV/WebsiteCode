@@ -64,6 +64,7 @@ ul {
     float: right;
     margin: 0;
     padding: 0;
+    text-align: right;
 }
 
 header {
@@ -83,7 +84,7 @@ header a {
 
 
 header li{
-    float: right;
+    float: left;
     display: inline;
     padding: 0 20px 0 20px;
 }
