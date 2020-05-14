@@ -3,7 +3,7 @@ body {
 }
 
 .dropdown {
-    float: right;
+    float: center;
     overflow: hidden;
 }
 
