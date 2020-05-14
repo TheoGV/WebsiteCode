@@ -124,6 +124,12 @@ header a: hover {
     margin-bottom: 400px;
 }
 
+#showcase .hero-block {
+    text-align: center;
+    color: white;
+    margin-bottom: 20px;
+}
+
 .hero-block {
     text-align: center;
     font-size: 20px;
