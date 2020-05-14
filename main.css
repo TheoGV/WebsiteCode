@@ -1,3 +1,7 @@
+body {
+    font-family: sans-serif;
+}
+
 .dropdown {
     float: right;
     overflow: hidden;
@@ -58,7 +62,6 @@
     float: left;
     width: auto;
     height: auto;
-    text-align: left;
 }
 
 ul {
