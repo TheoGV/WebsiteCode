@@ -137,4 +137,8 @@ svg:not(:root) {
     padding-top: 15px;
 }
 
+.icon, header ul {
+    align-items: center;
+    display: flex;
+}
 
