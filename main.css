@@ -74,7 +74,6 @@ ul {
 header {
     background: white;
     color: navy;
-    min-height: 70px;
     border-bottom: #e8491d 3px solid;
 }
 
@@ -90,6 +89,7 @@ header li{
     float: left;
     text-align: right;
     display: inline;
+    min-height: inherit;
     padding: 0 20px 0 20px;
 }
 
