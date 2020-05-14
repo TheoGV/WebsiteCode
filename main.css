@@ -1,5 +1,5 @@
 .dropdown {
-    float: left;
+    float: right;
     overflow: hidden;
 }
 
@@ -54,8 +54,8 @@
     overflow:hidden;
 }
 
-.container, .logo {
-   float: left;
+.logo {
+    float: left;
     width: auto;
     height: auto;
 }
