@@ -3,7 +3,7 @@ body {
 }
 
 .dropdown {
-    float: center;
+    float: right;
     overflow: hidden;
 }
 
@@ -80,10 +80,10 @@ header a {
 
 
 header li{
-    float: center;
+    float: left;
     text-align: right;
     display: inline;
-    min-height: 70px;
+    min-height: 100px;
     padding: 0 20px 0 20px;
 }
 
