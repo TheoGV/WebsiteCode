@@ -134,8 +134,7 @@ svg:not(:root) {
     stroke-width: 0;
     stroke: currentColor;
     fill: currentColor;
-    min-height: 70px;
-    padding-top: 30px;
+    padding-top: 15px;
 }
 
 
