@@ -95,7 +95,7 @@ header #branding {
 
 header nav {
     float:right;
-    margin-top: 35px;
+    margin-top: 30px;
 }
 
 header a: hover {
@@ -115,6 +115,13 @@ header a: hover {
     fill: currentColor;
     padding-top: 0px;
     min-height: 0px ;
+}
+
+.body-image {
+    background-image: url(Images/aiszschool.jpg)
+        anchor: center;
+        width: 1920;
+        height: 1080;
 }
 
 
