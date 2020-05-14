@@ -117,7 +117,7 @@ header a: hover {
     min-height: 0px ;
 }
 
-.body-image {
+.showcase {
     background-image: url(Images/aiszschool.jpg)
         anchor: center;
         width: 1920;
