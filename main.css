@@ -89,7 +89,7 @@ header li{
     float: left;
     text-align: right;
     display: inline;
-    min-height: inherit;
+    min-height: 70px;
     padding: 0 20px 0 20px;
 }
 
