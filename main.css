@@ -69,7 +69,7 @@ ul {
 header {
     background: white;
     color: navy;
-    border-bottom: #e8491d 3px solid;
+    border-bottom: #e8491d 1.5px solid;
 }
 
 header a {
@@ -117,11 +117,9 @@ header a: hover {
     min-height: 0px ;
 }
 
-.showcase {
-    background-image: url(Images/aiszschool.jpg)
-        anchor: center;
-        width: 1920;
-        height: 1080;
+#showcase {
+    min-height: 400px;
+    background: url(Images/aiszschool.jpg) no-repeat;
 }
 
 .hero-block {
@@ -135,8 +133,5 @@ header a: hover {
     color: #fff;
 }
 
-.hero {
-
-}
 
 
