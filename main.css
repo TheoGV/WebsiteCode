@@ -86,7 +86,7 @@ header a {
 
 
 header li{
-    float: left;
+    float: center;
     text-align: right;
     display: inline;
     min-height: 70px;
