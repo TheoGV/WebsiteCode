@@ -94,6 +94,15 @@ header li{
     padding: 0 20px 0 20px;
 }
 
+header #branding {
+    float: left;
+    padding: 1px;
+}
+
+header #branding h1 {
+    margin: 0;
+}
+
 header nav {
     float:right;
     margin-top: 10px;
@@ -115,8 +124,8 @@ header a: hover {
     stroke-width: 0;
     stroke: currentColor;
     fill: currentColor;
-    padding-top: 0px !important;
-    min-height: 0px !important;
+    padding-top: 0px;
+    min-height: 0px ;
 }
 
 
