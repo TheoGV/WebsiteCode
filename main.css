@@ -132,6 +132,7 @@ header a: hover {
     padding: 2rem 1rem;
     background: rgba(227,6,19,0.8);
     color: #fff;
+    opacity: 80%;
 }
 
 
