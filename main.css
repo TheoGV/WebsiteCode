@@ -130,10 +130,6 @@ header a: hover {
     min-height: 30px;
 }
 
-svg:not(:root) {
-    overflow: hidden;
-}
-
 
 
 
