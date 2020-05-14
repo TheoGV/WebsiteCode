@@ -125,15 +125,17 @@ header a: hover {
 }
 
 .hero-block {
+    text-align: center;
     position: relative;
     max-width: 570px;
     margin: 1rem auto;
     padding: 2rem 1rem;
     background: rgba(227,6,19,0.8);
-    color: #fff
-    text-align: center;
+    color: #fff;
 }
 
+.hero {
 
+}
 
 
