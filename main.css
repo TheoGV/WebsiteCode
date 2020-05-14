@@ -115,19 +115,11 @@ header a: hover {
     font-weight: bold;
 }
 
-.icon-logo-long {
+.icon {
     display: block;
     width: 3.4931640625em;
     transition: .3s;
     opacity: 1;
-}
-
-svg:not(:root) {
-    overflow: hidden;
-}
-
-
-.icon {
     float: top;
     width: 80%;
     height: 100%;
@@ -137,6 +129,11 @@ svg:not(:root) {
     padding-top: 0px;
     min-height: 30px;
 }
+
+svg:not(:root) {
+    overflow: hidden;
+}
+
 
 
 
