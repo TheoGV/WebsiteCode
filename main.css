@@ -128,13 +128,13 @@ svg:not(:root) {
 
 
 .icon {
-    float: left;
+    float: top;
     width: 80%;
     height: 100%;
     stroke-width: 0;
     stroke: currentColor;
     fill: currentColor;
-    padding-top: 0;
+    padding-top: 0px;
     min-height: 30px;
 }
 
