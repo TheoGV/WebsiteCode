@@ -119,6 +119,7 @@ header a: hover {
 
 #showcase {
     min-height: 1080px;
+    min-width: auto;
     background: url(Images/aiszschool.jpg) no-repeat;
     text-align: center;
     margin-bottom: 400px;
