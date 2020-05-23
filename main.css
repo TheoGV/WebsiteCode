@@ -130,6 +130,7 @@ header a: hover {
 .hero-block {
     position: absolute;
     right: 50%;
+    left: 0;
     top: 50%;
     width: 100%;
     text-align: center;
