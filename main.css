@@ -101,7 +101,7 @@ header li{
 }
 
 header li:hover {
-    color: white;
+    color: white !important;
     background-color: navy;
 }
 
