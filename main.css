@@ -64,16 +64,12 @@ ul {
     display: block;
     float: right;
     margin: 0;
-    margin-top: 10px;
     padding: 0;
     text-align: right;
     font-size: 24px;
 }
 
-ul:hover {
-    background-color: navy;
-    color: white;
-}
+
 /* Header content */
 header {
     background: white;
@@ -132,7 +128,6 @@ header a: hover {
     background: url(Images/aiszschool.jpg) no-repeat;
     text-align: center;
     min-height: 100vh;
-    margin-top: 10px;
     background-repeat: no-repeat;
     background-position: 50% 50%;
     background-size: cover;
