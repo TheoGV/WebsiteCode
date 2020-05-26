@@ -132,6 +132,7 @@ header a: hover {
     background: url(Images/aiszschool.jpg) no-repeat;
     text-align: center;
     min-height: 100vh;
+    margin-top: 10px;
     background-repeat: no-repeat;
     background-position: 50% 50%;
     background-size: cover;
