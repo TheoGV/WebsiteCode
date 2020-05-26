@@ -101,9 +101,9 @@ header li{
     padding: 0 10px 0;
 }
 
-header nav:hover {
-    color: white !important;
+header li:hover {
     background-color: navy;
+    color: white !important;
 }
 
 header #branding {
