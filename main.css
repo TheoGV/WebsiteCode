@@ -15,7 +15,6 @@ body {
 
 /* Dropdown button */
 .dropdown .dropbtn {
-    padding-top: 0px;
     font-size: 24px;
     min-width: 160px;
     border: none;
@@ -26,11 +25,14 @@ body {
     margin: 0;
     text-decoration: none;
     text-transform: uppercase;
-    padding: 5px 0;
 }
 
 .dropbtn:hover {
     min-width: 160px;
+}
+
+.dropbtn {
+    padding: 5px 0 !important;
 }
 
 .navbar a:hover, .dropdown:hover .dropbtn {
