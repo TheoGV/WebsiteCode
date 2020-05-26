@@ -2,6 +2,7 @@ body {
     font-family: "Encode Sans Semi Expanded",sans-serif;
 }
 
+/*dropdown content */
 .dropdown {
     float: right;
     overflow: hidden;
@@ -22,7 +23,7 @@ body {
 }
 
 .navbar a:hover, .dropdown:hover .dropbtn {
-    background-color: white;
+    background-color: navy;
 }
 
 .dropdown-content {
@@ -45,7 +46,8 @@ body {
 }
 
 .dropdown-content a:hover {
-    background-color: #ddd;
+    background-color: navy;
+    color: white;
 }
 
 .dropdown:hover .dropdown-content {
@@ -66,6 +68,11 @@ ul {
     font-size: 24px;
 }
 
+ul:hover {
+    background-color: navy;
+    color: white;
+}
+/* Header content */
 header {
     background: white;
     color: navy;
@@ -103,6 +110,7 @@ header a: hover {
     font-weight: bold;
 }
 
+
 .icon {
     display: block;
     transition: .3s;
@@ -117,6 +125,7 @@ header a: hover {
     min-height: 0px ;
 }
 
+/* First part */
 #showcase {
     background: url(Images/aiszschool.jpg) no-repeat;
     text-align: center;
