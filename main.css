@@ -88,14 +88,14 @@ header {
     border-bottom: #e8491d 1.5px solid;
 }
 
-header a {
+nav a {
     color: navy;
     text-decoration: none;
     text-transform: uppercase;
     padding: 0 18px 0;
 }
 
-header a:hover {
+nav a:hover {
     color: white;
     background-color: navy;
 }
