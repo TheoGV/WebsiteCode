@@ -104,7 +104,7 @@ header li{
 header li:hover {
     color: white !important;
     background-color: navy;
-    padding: 160px;
+    padding: 5px;
 }
 
 header #branding {
