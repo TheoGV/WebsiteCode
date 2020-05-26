@@ -29,6 +29,7 @@ body {
 
 .dropbtn:hover {
     padding: 0;
+    min-width: 160px;
 }
 
 .navbar a:hover, .dropdown:hover .dropbtn {
