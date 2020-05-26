@@ -31,7 +31,7 @@ body {
     min-width: 160px;
 }
 
-button .dropbtn {
+li button {
     padding: 5px 0;
 }
 
