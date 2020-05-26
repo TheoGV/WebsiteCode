@@ -38,7 +38,6 @@ body {
 .navbar a:hover, .dropdown:hover .dropbtn {
     background-color: navy;
     color: white;
-    padding: 5px 0;
 }
 
 .dropdown-content {
