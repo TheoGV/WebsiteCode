@@ -98,7 +98,11 @@ header li{
     text-align: right;
     min-height: 70px;
     padding: 0 10px 0;
+}
 
+header li:hover {
+    color: white;
+    background-color: navy;
 }
 
 header #branding {
