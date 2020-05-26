@@ -33,6 +33,7 @@ body {
 
 li button {
     padding: 5px 0;
+    padding-top: 25px;
 }
 
 .navbar a:hover, .dropdown:hover .dropbtn {
