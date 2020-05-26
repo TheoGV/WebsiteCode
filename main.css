@@ -144,7 +144,7 @@ header a: hover {
 
 /* First part */
 #showcase {
-    background: url(Images/aiszschool.jpg) no-repeat;
+    background: url(Images/aiszschool.jpg);
     text-align: center;
     min-height: 100vh;
     background-repeat: no-repeat;
