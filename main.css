@@ -97,7 +97,6 @@ header a {
 header a:hover {
     color: white;
     background-color: navy;
-    padding: 12px 4px;
 }
 
 header li{
