@@ -36,7 +36,6 @@ body {
 .navbar a:hover, .dropdown:hover .dropbtn {
     background-color: navy;
     color: white;
-    max-height: 100px;
 }
 
 .dropdown-content {
