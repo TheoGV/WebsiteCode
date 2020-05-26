@@ -11,7 +11,7 @@ body {
 .dropdown {
     float: right;
     overflow: hidden;
-    max-height: 20px;
+    max-height: 40px;
 }
 
 /* Dropdown button */
