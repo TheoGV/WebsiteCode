@@ -96,7 +96,8 @@ header li{
     float: left;
     text-align: right;
     min-height: 70px;
-    padding: 0 30px 0;
+    padding: 0 10px 0;
+
 }
 
 header #branding {
