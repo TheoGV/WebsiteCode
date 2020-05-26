@@ -103,7 +103,7 @@ header li{
 
 header li:hover {
     background-color: navy;
-    color: white !important;
+    color: white;
 }
 
 header #branding {
