@@ -93,6 +93,10 @@ header a {
     text-transform: uppercase;
 }
 
+header a:hover {
+    color: white;
+    background-color: navy;
+}
 
 header li{
     list-style: none;
@@ -102,10 +106,6 @@ header li{
     padding: 0 10px 0;
 }
 
-header li:hover {
-    background-color: navy;
-    color: white;
-}
 
 header #branding {
     float: left;
