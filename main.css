@@ -27,6 +27,10 @@ body {
     text-transform: uppercase;
 }
 
+.dropbtn:hover {
+    padding: 0;
+}
+
 .navbar a:hover, .dropdown:hover .dropbtn {
     background-color: navy;
     color: white;
