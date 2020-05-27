@@ -127,7 +127,8 @@ header #branding {
 
 
 header nav {
-    float:right;
+    float:left;
+    left: 50%;
     padding-top: 30px;
 }
 
