@@ -80,6 +80,8 @@ body {
 header ul {
     display: block;
     float: right;
+    overflow: hidden;
+    padding-top: 25px;
     margin: 0;
     padding: 0;
     min-width: 160px;
@@ -114,6 +116,7 @@ nav a:hover {
 header #branding {
     float: left;
 }
+
 
 
 header nav {
