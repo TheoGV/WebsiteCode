@@ -111,7 +111,7 @@ nav a:hover {
 }
 
 
-header li{
+header li button{
     list-style: none;
     float: left;
     text-align: right;
@@ -121,7 +121,6 @@ header li{
 
 header #branding {
     float: left;
-    padding: 1px;
 }
 
 
