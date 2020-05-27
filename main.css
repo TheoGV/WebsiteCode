@@ -104,7 +104,6 @@ header li{
     list-style: none;
     float: left;
     text-align: right;
-    min-height: 70px;
 }
 
 
@@ -145,7 +144,7 @@ header a: hover {
     background: url(Images/aiszschool.jpg);
     text-align: center;
     min-height: 100vh;
-    width: 90%;
+    width: 100%;
     background-repeat: no-repeat;
     background-position: 50% 50%;
     background-size: cover;
