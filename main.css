@@ -66,6 +66,7 @@ body {
 .dropdown-content a:hover {
     background-color: navy;
     color: white;
+    max-width: 16px;
 }
 
 
