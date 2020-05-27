@@ -50,7 +50,7 @@ body {
     z-index: 1;
     font-size: 16px;
     padding: 0;
-    min-width: inherit;
+    min-width: 130px;
 }
 
 
