@@ -80,6 +80,10 @@ header ul {
     padding: 5px 18px;
 }
 
+nav button {
+    padding: 5px 18px;
+}
+
 
 header {
     background: white;
