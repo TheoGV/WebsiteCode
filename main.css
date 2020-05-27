@@ -27,7 +27,6 @@ body {
     margin: 0;
     text-decoration: none;
     text-transform: uppercase;
-    padding 5px 18px;
 }
 
 
@@ -129,8 +128,6 @@ header #branding {
 header nav {
     float: right;
     padding-top: 30px;
-    clear: both;
-    display: inline-block;
     overflow: hidden;
     white-space: nowrap;
 }
