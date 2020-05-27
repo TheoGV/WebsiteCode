@@ -87,7 +87,6 @@ header ul {
 
 nav button {
     padding: 5px 18px;
-    padding-top: 10px;
 }
 
 
@@ -102,7 +101,7 @@ nav a {
     color: navy;
     text-decoration: none;
     text-transform: uppercase;
-    padding: 5px 18px;
+    padding: 10px 18px;
 }
 
 
@@ -127,7 +126,7 @@ header #branding {
 
 header nav {
     float: right;
-    padding-top: 30px;
+    padding-top: 25px;
     overflow: hidden;
     white-space: nowrap;
 }
