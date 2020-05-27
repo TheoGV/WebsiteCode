@@ -127,8 +127,9 @@ header #branding {
 
 
 header nav {
-    float: left;
+    float: right;
     padding-top: 30px;
+    padding-right: 50px;
 }
 
 
@@ -146,7 +147,6 @@ header nav {
     padding-bottom: 10px;
     min-height: 0px;
     width: 80%;
-    margin-right: 100px;
 }
 
 /* First part */
