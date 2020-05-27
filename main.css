@@ -50,6 +50,7 @@ body {
     z-index: 1;
     font-size: 16px;
     padding: 0;
+    min-width: inherit;
 }
 
 
@@ -66,7 +67,6 @@ body {
 .dropdown-content a:hover {
     background-color: navy;
     color: white;
-    max-width: 16px;
 }
 
 
