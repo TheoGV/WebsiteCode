@@ -115,6 +115,7 @@ header li{
     list-style: none;
     float: left;
     text-align: right;
+    padding-top: 25px;
 }
 
 
@@ -126,7 +127,7 @@ header #branding {
 
 header nav {
     float: right;
-    padding-top: 25px;
+
     overflow: hidden;
     white-space: nowrap;
 }
