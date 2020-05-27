@@ -128,15 +128,11 @@ header #branding {
 
 header nav {
     float:left;
-    left: 50%;
+    right: 80%;
     padding-top: 30px;
+
 }
 
-
-header a: hover {
-    color: red;
-    font-weight: bold;
-}
 
 /* Logo */
 .logo {
