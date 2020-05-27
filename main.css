@@ -117,7 +117,6 @@ header #branding {
 header nav {
     float:right;
     padding-top: 30px;
-    margin-top: 30px;
 }
 
 header a: hover {
@@ -137,6 +136,7 @@ header a: hover {
     fill: currentColor;
     padding-top: 10px;
     min-height: 0px;
+    width: 80%
 }
 
 
