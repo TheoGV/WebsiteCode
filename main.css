@@ -32,7 +32,7 @@ body {
 
 .dropbtn:hover {
     min-width: 160px;
-    min-height: 5px;
+    min-height: 50px;
 }
 
 
