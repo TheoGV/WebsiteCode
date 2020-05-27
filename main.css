@@ -90,6 +90,10 @@ header {
     border-bottom: #e8491d 1.5px solid;
 }
 
+nav {
+    padding-top: 30px;
+}
+
 nav a {
     color: navy;
     text-decoration: none;
