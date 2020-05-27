@@ -134,7 +134,7 @@ header a: hover {
     stroke-width: 0;
     stroke: currentColor;
     fill: currentColor;
-    padding-top: 5px;
+    padding-top: 0;
     min-height: 0px;
     width: 80%
 }
