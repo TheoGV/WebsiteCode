@@ -11,6 +11,7 @@ body {
 .dropdown {
     float: right;
     overflow: hidden;
+    padding; 5px 18px;
 }
 
 /* Dropdown button */
@@ -90,9 +91,6 @@ header {
     border-bottom: #e8491d 1.5px solid;
 }
 
-nav {
-    padding-top: 30px;
-}
 
 nav a {
     color: navy;
@@ -121,6 +119,7 @@ header #branding {
 
 header nav {
     float:right;
+     padding-top: 30px;
 }
 
 header a: hover {
