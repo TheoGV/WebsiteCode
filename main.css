@@ -130,14 +130,12 @@ header a: hover {
     transition: .3s;
     opacity: 1;
     float: top;
-    width: 80%;
     height: 100%;
     stroke-width: 0;
     stroke: currentColor;
     fill: currentColor;
     padding-top: 10px;
     min-height: 0px ;
-
 }
 
 
@@ -147,6 +145,7 @@ header a: hover {
     background: url(Images/aiszschool.jpg);
     text-align: center;
     min-height: 100vh;
+    width: 90%;
     background-repeat: no-repeat;
     background-position: 50% 50%;
     background-size: cover;
