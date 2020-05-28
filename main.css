@@ -9,14 +9,6 @@ body {
     overflow:hidden;
 }
 
-/* Links inside the navbar */
-.navbar a {
-    font-size: 16px;
-    color: navy;
-    text-align: center;
-    text-decoration: none;
-}
-
 /* The dropdown container */
 .dropdown {
     float: left;
@@ -33,7 +25,7 @@ body {
     padding: inherit;
     background-color: inherit;
     font-family: inherit; /* Important for vertical align on mobile phones */
-    margin: 0 0.7em; /* Important for vertical align on mobile phones */
+    margin: 10px 0.7em; /* Important for vertical align on mobile phones */
 }
 
 /* Add a red background color to navbar links on hover */
@@ -103,7 +95,6 @@ nav a {
     text-decoration: none;
     text-transform: uppercase;
     padding: 5px 16px;
-    margin-top: 1000x;
 }
 
 
