@@ -4,6 +4,7 @@ body {
 
 .navbar {
     margin-top: 1em;
+    display: flex;
 }
 
 .container {
