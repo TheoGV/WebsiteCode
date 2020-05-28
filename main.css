@@ -87,6 +87,8 @@ header {
     background: white;
     z-index: 1000;
     width:100%;
+    margin: 0;
+    padding:0;
     box-shadow: 0 0 10px #707070;
     position: fixed;
 }
