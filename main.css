@@ -89,7 +89,7 @@ header {
     width:100%;
     margin: 0;
     padding: 10px 0;
-    border-bottom: 1px inset black;
+    border-bottom: 1px inset;
     position: fixed;
 }
 
