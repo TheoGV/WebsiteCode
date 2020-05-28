@@ -43,7 +43,7 @@ body {
 }
 
 .dropbtn {
-
+    padding: 5px 16px;
 }
 
 /* Dropdown content (hidden by default) */
