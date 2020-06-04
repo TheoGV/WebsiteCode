@@ -40,7 +40,7 @@ nav ul il a {
     transition: .3s;
     opacity: 1;
     float: left;
-    height: 100%;
+    height: 50%;
     stroke-width: 0;
     stroke: currentColor;
     fill: currentColor;
