@@ -39,7 +39,7 @@ nav ul il a {
     display: block;
     transition: .3s;
     opacity: 1;
-    float: top;
+    float: left;
     height: 100%;
     stroke-width: 0;
     stroke: currentColor;
