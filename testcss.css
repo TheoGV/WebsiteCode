@@ -37,16 +37,15 @@ nav ul il a {
 
 .logo {
     display: block;
-    transition: .3s;
-    opacity: 1;
-    float: left;
+    width: 3.4931640625em;
     height: 1em;
-    stroke-width: 0;
-    stroke: currentColor;
-    fill: currentColor;
-    padding-bottom: 10px;
-    min-height: 0px;
-    width: 80%;
+    opacity: 1;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
 }
 
 /* First part */
