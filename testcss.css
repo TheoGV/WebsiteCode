@@ -19,6 +19,22 @@ nav {
     background-color: white;
 }
 
+nav ul {
+    float: right;
+}
+
+nav ul il {
+    float: right;
+    list-style: none;
+}
+
+nav ul il a {
+    font-size: 24px;
+    color: navy;
+    padding: 24px 14px;
+    display: block;
+}
+
 .logo {
     display: block;
     transition: .3s;
