@@ -36,8 +36,17 @@ nav ul il a {
 }
 
 .logo {
-    max-height: 100px;
-    max-width: 300px;
+    display: block;
+    transition: .3s;
+    opacity: 1;
+    float: top;
+    height: 100%;
+    stroke-width: 0;
+    stroke: currentColor;
+    fill: currentColor;
+    padding-bottom: 10px;
+    min-height: 0px;
+    width: 80%;
 }
 
 /* First part */
