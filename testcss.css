@@ -35,6 +35,10 @@ nav ul il a {
     display: block;
 }
 
+.logo {
+    max-height: 100px;
+    max-width: 300px;
+}
 
 /* First part */
 #showcase {
