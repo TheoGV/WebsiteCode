@@ -16,15 +16,15 @@ body {
 /* Navbar container */
 .navbar {
   overflow: hidden;
-  background-color: #333;
-  font-family: Arial;
+  background-color: white;
+  font-family: inherit;
 }
 
 /* Links inside the navbar */
 .navbar a {
-  float: left;
-  font-size: 16px;
-  color: white;
+  float: right;
+  font-size: 24px;
+  color: navy;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
