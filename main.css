@@ -19,6 +19,7 @@ body {
     background-color: white;
     font-family: inherit;
     list-style: none;
+    text-decoration: uppercase;
 }
 
 /* Links inside the navbar */
