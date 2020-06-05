@@ -99,7 +99,7 @@ header {
     padding: 0;
     border-bottom: 1px inset;
     position: fixed;
-    height: auto;
+    min-height: 100px;
 }
 
 
