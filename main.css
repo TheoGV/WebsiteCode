@@ -15,9 +15,10 @@ body {
 
 /* Navbar container */
 .navbar {
-  overflow: hidden;
-  background-color: white;
-  font-family: inherit;
+    overflow: hidden;
+    background-color: white;
+    font-family: inherit;
+    list-style: none;
 }
 
 /* Links inside the navbar */
