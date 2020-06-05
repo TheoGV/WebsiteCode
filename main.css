@@ -107,11 +107,6 @@ nav a:hover {
     background-color: navy;
 }
 
-
-header #branding {
-    float: left;
-}
-
 /* Logo */
 svg {
     height: 80px;
