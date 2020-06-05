@@ -70,7 +70,7 @@ body {
     display: block;
 }
 
-header ul a button{
+header ul a, button{
     float: right;
     overflow: hidden;
     margin: 0;
@@ -94,7 +94,7 @@ header {
 }
 
 
-nav a button{
+nav a, button{
     color: navy;
     text-decoration: none;
     text-transform: uppercase;
