@@ -15,7 +15,6 @@ body {
 
 /* Navbar container */
 .navbar {
-    float: right
     overflow: hidden;
     background-color: white;
     font-family: inherit;
