@@ -113,18 +113,10 @@ header #branding {
 }
 
 /* Logo */
-.logo {
-    display: block;
-    transition: .3s;
-    opacity: 1;
-    float: top;
-    height: 100%;
-    stroke-width: 0;
-    stroke: currentColor;
-    fill: currentColor;
-    padding-bottom: 10px;
-    min-height: 0px;
-    width: 80%;
+svg {
+    height: 100px;
+    width: 300px;
+    float: left;
 }
 
 /* First part */
