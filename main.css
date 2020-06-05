@@ -24,6 +24,7 @@ body {
 
 ul {
     float: right;
+    padding: 0;
 }
 
 /* Links inside the navbar */
