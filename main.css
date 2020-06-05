@@ -2,11 +2,6 @@ body {
     font-family: "Encode Sans Semi Expanded",sans-serif;
 }
 
-.navbar {
-    margin-top: 1em;
-    display: flex;
-}
-
 .container {
     width: 90%;
     margin: auto;
