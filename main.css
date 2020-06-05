@@ -22,6 +22,10 @@ body {
     text-transform: uppercase;
 }
 
+ul {
+    float: right;
+}
+
 /* Links inside the navbar */
 .navbar a {
   float: right;
