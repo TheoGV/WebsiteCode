@@ -117,6 +117,7 @@ svg {
     height: 80px;
     width: 300px;
     float: left;
+    padding: 0;
 }
 
 /* First part */
