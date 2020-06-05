@@ -106,12 +106,6 @@ header {
     min-height: 100px;
 }
 
-
-nav a:hover {
-    color: white;
-    background-color: navy;
-}
-
 /* Logo */
 svg {
     height: 80px;
